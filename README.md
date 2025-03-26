@@ -45,3 +45,5 @@ Diseño de una una PCB para controlar las puertas.
 | Data       | Autor     | Branch | Versión        | Descripción          |
 | ---------- | --------- | ------ | -------------- | -------------------- |
 | 26/03/2025 | B.Ventura | Master | initial commit | Readme y Esquemático |
+| 26/03/2025 | B.Ventura | Edit | | Diagrama de Bloques |
+
