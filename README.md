@@ -19,7 +19,8 @@ Diseño de una una PCB para controlar las puertas.
 * Sistema con motor por apertura y cierre de la puerta.
 
 * Incluir un módulo de lectura RFID para apertura sin llave.
-
+## Diagrama de Bloques
+![Diagrama_bloques](imag/diagrama_bloques.png)
 ## Components
 
 | Descripció           | Referència         | Package | Datasheet                                                                                             | Proveedor                                                                                                                                                                                                                                             |
