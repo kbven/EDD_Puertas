@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c96004bd-c0fc-431c-a510-eb1e1a82944f")
+	(paper "A4")
+	(lib_symbols)
+	(text "PUERTAS EDD\n"
+		(exclude_from_sim no)
+		(at 144.018 41.148 0)
+		(effects
+			(font
+				(size 10 10)
+				(thickness 2.4)
+				(bold yes)
+			)
+		)
+		(uuid "2247770b-b73e-4a8c-b38d-80419e3283ef")
+	)
+	(sheet
+		(at 102.87 63.5)
+		(size 50.8 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9d8869dd-b067-4c66-a8ca-a407ea6f90ea")
+		(property "Sheetname" "motores"
+			(at 102.87 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motores.kicad_sch"
+			(at 102.87 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 63.5)
+		(size 48.26 63.5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ddbb6980-9f13-42d8-9727-7a64df9bde6c")
+		(property "Sheetname" "Circuito Digital"
+			(at 36.83 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Digital.kicad_sch"
+			(at 36.83 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.18 63.5)
+		(size 52.07 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e6b7430e-7a8c-411e-a7e4-bebdb17bd144")
+		(property "Sheetname" "Regulador"
+			(at 170.18 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Regulador.kicad_sch"
+			(at 170.18 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
