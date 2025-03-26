@@ -1,8 +1,8 @@
 # Disseny de sistema electrònic de retrovisors
 
-> **Autors:** Brandon Ventura,.
+> **Autors:** Brandon Ventura, Pablo .
 
-> **Grup 2 Mati**                             
+> **Grup Mati**                             
 
 --------
 
