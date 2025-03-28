@@ -44,8 +44,8 @@ Diseño de una una PCB para controlar las puertas.
 
 | Data       | Autor     | Branch | Versión        | Descripción          |
 | ---------- | --------- | ------ | -------------- | -------------------- |
-| 26/03/2025 | B.Ventura | Master | initial commit | Readme y Esquemático |
-| 26/03/2025 | B.Ventura | Master | | Diagrama de Bloques |
-| 28/03/2025 | B.Ventura | Master | | Terminales y Diodos |
+| 26/03/2025 | B.Ventura | Main | initial commit | Readme y Esquemático |
+| 26/03/2025 | B.Ventura | Main | | Diagrama de Bloques |
+| 28/03/2025 | B.Ventura | Main | | Terminales y Diodos |
 
 
