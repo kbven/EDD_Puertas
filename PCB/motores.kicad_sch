@@ -3335,6 +3335,12 @@
 		(uuid "024f6aa5-b65a-4ef2-9f2a-6ba31cd68999")
 	)
 	(junction
+		(at 214.63 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "044c235c-f7de-4e88-a0f1-5977e7323bbd")
+	)
+	(junction
 		(at 67.31 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3405,12 +3411,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3e7680fb-e123-4332-93b1-dc413d4f25f5")
-	)
-	(junction
-		(at 195.58 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5fbb988a-397b-4e63-9df8-a35d7697ba86")
 	)
 	(junction
 		(at 231.14 68.58)
@@ -4246,7 +4246,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 123.19) (xy 195.58 123.19)
+			(xy 182.88 123.19) (xy 214.63 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4356,7 +4356,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 67.31) (xy 220.98 67.31)
+			(xy 205.74 67.31) (xy 214.63 67.31)
 		)
 		(stroke
 			(width 0)
@@ -4436,13 +4436,13 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 123.19) (xy 195.58 67.31)
+			(xy 214.63 67.31) (xy 220.98 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "93f78721-4963-473b-9469-aa8f25706500")
+		(uuid "91d28e8e-0671-4a90-97bc-d87cb5dad92e")
 	)
 	(wire
 		(pts
@@ -4513,16 +4513,6 @@
 			(type default)
 		)
 		(uuid "9d929a04-8a78-4b34-929d-54fca271334a")
-	)
-	(wire
-		(pts
-			(xy 195.58 67.31) (xy 203.2 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f08c323-0c2f-437c-9c01-16932c7cc2d3")
 	)
 	(wire
 		(pts
@@ -4866,13 +4856,23 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 67.31) (xy 195.58 67.31)
+			(xy 189.23 67.31) (xy 203.2 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d470afc0-0878-4c02-854a-11dc9beaf8c7")
+	)
+	(wire
+		(pts
+			(xy 214.63 67.31) (xy 214.63 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d80f8ead-d179-486b-b332-6f44cc55b0da")
 	)
 	(wire
 		(pts
@@ -5024,7 +5024,7 @@
 		)
 		(uuid "1c88fff4-ca89-4f35-ad44-3d58246756e0")
 	)
-	(label "DC2"
+	(label "HS"
 		(at 196.85 67.31 0)
 		(effects
 			(font
@@ -5064,7 +5064,7 @@
 		)
 		(uuid "8339c5fb-a674-46f9-9eb6-26c112e1c17f")
 	)
-	(label "DC1"
+	(label "LS"
 		(at 214.63 67.31 0)
 		(effects
 			(font
@@ -6009,6 +6009,12 @@
 					(unit 1)
 				)
 			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6318,6 +6324,12 @@
 					(unit 1)
 				)
 			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "SW?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6459,6 +6471,12 @@
 					(unit 1)
 				)
 			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "pull-UP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6525,6 +6543,12 @@
 			(project "motores"
 				(path "/1a61484a-83b1-49b7-8a2d-00c236a675f1"
 					(reference "pull-UP3")
+					(unit 1)
+				)
+			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "pull-UP?")
 					(unit 1)
 				)
 			)
@@ -7175,6 +7199,12 @@
 					(unit 1)
 				)
 			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "J?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7315,6 +7345,12 @@
 			(project "motores"
 				(path "/1a61484a-83b1-49b7-8a2d-00c236a675f1"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -7540,6 +7576,12 @@
 					(unit 1)
 				)
 			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "pull-UP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7756,6 +7798,12 @@
 			(project ""
 				(path "/1a61484a-83b1-49b7-8a2d-00c236a675f1"
 					(reference "SW1")
+					(unit 1)
+				)
+			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -8431,6 +8479,12 @@
 			(project "motores"
 				(path "/1a61484a-83b1-49b7-8a2d-00c236a675f1"
 					(reference "SW3")
+					(unit 1)
+				)
+			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "SW?")
 					(unit 1)
 				)
 			)
@@ -9352,6 +9406,12 @@
 					(unit 1)
 				)
 			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "SW?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9806,6 +9866,12 @@
 					(unit 1)
 				)
 			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9872,6 +9938,12 @@
 			(project "motores"
 				(path "/1a61484a-83b1-49b7-8a2d-00c236a675f1"
 					(reference "pull-UP1")
+					(unit 1)
+				)
+			)
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/9d8869dd-b067-4c66-a8ca-a407ea6f90ea"
+					(reference "pull-UP?")
 					(unit 1)
 				)
 			)

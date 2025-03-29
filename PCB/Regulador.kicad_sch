@@ -2696,7 +2696,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "173a246b-5aea-41e8-af56-c168766d0fba")
-		(property "Reference" "C?"
+		(property "Reference" "C2"
 			(at 236.728 96.52 0)
 			(effects
 				(font
@@ -2772,7 +2772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "269fa559-b8d8-4f13-8bbf-2b90af887b5f")
-		(property "Reference" "J?"
+		(property "Reference" "J1"
 			(at 57.658 83.058 0)
 			(effects
 				(font
@@ -2844,7 +2844,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "295a2346-925e-43ba-ad1a-d15b4cc5ab96")
-		(property "Reference" "U1"
+		(property "Reference" "U?"
 			(at 147.32 73.66 0)
 			(effects
 				(font
@@ -2905,6 +2905,12 @@
 			(uuid "7f7c800c-ddec-40f8-9116-6f409607d0ac")
 		)
 		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/e6b7430e-7a8c-411e-a7e4-bebdb17bd144"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/f9cee2a8-0a19-4b11-9627-69569c878c91"
 					(reference "U1")
@@ -2923,7 +2929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b1343cf-577a-4940-b6bc-0a06939d7547")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR034"
 			(at 64.77 86.36 0)
 			(effects
 				(font
@@ -2994,7 +3000,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bb26362-d72f-4300-8bee-914976f27d99")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR04"
 			(at 243.84 112.522 0)
 			(effects
 				(font
@@ -3065,7 +3071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "359c0774-1f60-4241-9182-8afd9701c3b0")
-		(property "Reference" "L1"
+		(property "Reference" "L?"
 			(at 162.56 86.36 0)
 			(effects
 				(font
@@ -3167,6 +3173,12 @@
 			(uuid "e3d8e58d-c3bc-4e21-a616-b32337f88575")
 		)
 		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/e6b7430e-7a8c-411e-a7e4-bebdb17bd144"
+					(reference "L?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/f9cee2a8-0a19-4b11-9627-69569c878c91"
 					(reference "L1")
@@ -3184,7 +3196,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35a8f832-15e8-4f84-b3dd-7a302e442996")
-		(property "Reference" "D1"
+		(property "Reference" "D?"
 			(at 151.13 101.6 90)
 			(effects
 				(font
@@ -3235,6 +3247,12 @@
 			(uuid "91f16b8c-b6ad-4b48-aba1-36efc7a1da17")
 		)
 		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/e6b7430e-7a8c-411e-a7e4-bebdb17bd144"
+					(reference "D?")
+					(unit 1)
+				)
+			)
 			(project "Regulador"
 				(path "/f9cee2a8-0a19-4b11-9627-69569c878c91"
 					(reference "D1")
@@ -3252,7 +3270,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49b5cae2-242e-468e-9af3-9144f9be587d")
-		(property "Reference" "C?"
+		(property "Reference" "C4"
 			(at 244.348 96.52 0)
 			(effects
 				(font
@@ -3327,7 +3345,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56e917a1-f26f-4633-a4b7-c8803a318485")
-		(property "Reference" "U2"
+		(property "Reference" "U?"
 			(at 217.17 86.36 0)
 			(effects
 				(font
@@ -3380,6 +3398,12 @@
 			(uuid "50ba8242-b3a2-438a-a8c6-a05b6426adad")
 		)
 		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/e6b7430e-7a8c-411e-a7e4-bebdb17bd144"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/f9cee2a8-0a19-4b11-9627-69569c878c91"
 					(reference "U2")
@@ -3397,7 +3421,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5a31d23d-4d39-455a-9456-22a6aea0d650")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR06"
 			(at 248.92 91.44 0)
 			(effects
 				(font
@@ -3467,7 +3491,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6324430b-b7ce-4ed9-b897-0eca18bd0235")
-		(property "Reference" "D?"
+		(property "Reference" "D3"
 			(at 78.74 91.44 90)
 			(effects
 				(font
@@ -3542,7 +3566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "756a0837-8875-4497-865b-2de88ef7d84b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR01"
 			(at 217.17 113.03 0)
 			(effects
 				(font
@@ -3613,7 +3637,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b1e2e7a-b86a-4054-8d61-679ef109b943")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR0105"
 			(at 128.27 76.2 0)
 			(effects
 				(font
@@ -3660,6 +3684,12 @@
 			(uuid "61833953-5af6-4570-b9ac-332a8e9ebaab")
 		)
 		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/e6b7430e-7a8c-411e-a7e4-bebdb17bd144"
+					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
 			(project "Regulador"
 				(path "/f9cee2a8-0a19-4b11-9627-69569c878c91"
 					(reference "#PWR02")
@@ -3678,7 +3708,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e559ccf-c3f0-4711-94c7-8819114fbb35")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR02"
 			(at 107.95 107.95 0)
 			(effects
 				(font
@@ -3749,7 +3779,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ecc388c-bd85-4031-bf36-00e2ce2e1a5a")
-		(property "Reference" "R?"
+		(property "Reference" "R1"
 			(at 260.35 97.155 0)
 			(effects
 				(font
@@ -3823,7 +3853,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a5ba0a89-5e3c-41fc-87fb-8bb3e10471d0")
-		(property "Reference" "C?"
+		(property "Reference" "C3"
 			(at 98.806 91.694 0)
 			(effects
 				(font
@@ -3897,7 +3927,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a8f60609-cef4-40bf-a70a-711fe6aaa744")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR09"
 			(at 257.81 116.84 0)
 			(effects
 				(font
@@ -3968,7 +3998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad4cedc2-3d8b-44e9-a765-b51a3fbf88e0")
-		(property "Reference" "D?"
+		(property "Reference" "D1"
 			(at 261.62 105.0925 90)
 			(effects
 				(font
@@ -4042,7 +4072,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bacb64a6-8bfc-4a65-a6d3-d6cab468eba4")
-		(property "Reference" "C?"
+		(property "Reference" "C1"
 			(at 108.966 91.694 0)
 			(effects
 				(font
@@ -4117,7 +4147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5fbf5ab-f123-4405-bef4-9e99f21df53c")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR0106"
 			(at 148.59 118.11 0)
 			(effects
 				(font
@@ -4164,6 +4194,12 @@
 			(uuid "a19a3ad4-c85c-42cd-8b88-5698d72c3b20")
 		)
 		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/e6b7430e-7a8c-411e-a7e4-bebdb17bd144"
+					(reference "#PWR0106")
+					(unit 1)
+				)
+			)
 			(project "Regulador"
 				(path "/f9cee2a8-0a19-4b11-9627-69569c878c91"
 					(reference "#PWR01")
@@ -4183,7 +4219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb87a5fa-135a-4029-b856-54a4381f9530")
-		(property "Reference" "D?"
+		(property "Reference" "D2"
 			(at 71.12 83.058 0)
 			(effects
 				(font
@@ -4274,7 +4310,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc1e1cbc-e2eb-46d3-a785-3cd68b32285c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR07"
 			(at 76.2 107.95 0)
 			(effects
 				(font
@@ -4345,7 +4381,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf8f5926-49ae-4629-b745-842c2b4e59bd")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR05"
 			(at 97.79 107.95 0)
 			(effects
 				(font
@@ -4416,7 +4452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e08fde1a-2793-496b-8cbe-45aca626fe80")
-		(property "Reference" "R1"
+		(property "Reference" "R?"
 			(at 137.16 59.69 90)
 			(effects
 				(font
@@ -4465,6 +4501,12 @@
 			(uuid "8bffe7f2-ce63-4215-8689-6b91bb7e5cd7")
 		)
 		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/e6b7430e-7a8c-411e-a7e4-bebdb17bd144"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Regulador"
 				(path "/f9cee2a8-0a19-4b11-9627-69569c878c91"
 					(reference "R1")
@@ -4483,7 +4525,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e333f849-f059-4055-83eb-934824ebfa6b")
-		(property "Reference" "R2"
+		(property "Reference" "R?"
 			(at 152.4 59.69 90)
 			(effects
 				(font
@@ -4532,6 +4574,12 @@
 			(uuid "8c50a88c-f259-415b-8aef-d9ef5ac8961d")
 		)
 		(instances
+			(project "puertas"
+				(path "/c96004bd-c0fc-431c-a510-eb1e1a82944f/e6b7430e-7a8c-411e-a7e4-bebdb17bd144"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Regulador"
 				(path "/f9cee2a8-0a19-4b11-9627-69569c878c91"
 					(reference "R2")
@@ -4550,7 +4598,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7c26c41-ec3c-4fc6-b3d2-51b90048908d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR03"
 			(at 236.22 111.76 0)
 			(effects
 				(font
@@ -4621,7 +4669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffc047d9-fcdb-404d-93b0-97b49432e800")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR060"
 			(at 63.5 107.95 0)
 			(effects
 				(font
