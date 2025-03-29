@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 82683C
+D 68 H Unshielded Wirewound Inductor 200 mA 2.55Ohm Max 1210 (3225 Metric)
+K
+F https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_8200c.pdf
+$ENDCMP
+#
+#End Doc Library
