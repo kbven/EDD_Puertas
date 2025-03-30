@@ -1,4 +1,4 @@
-# Disseny de sistema electrònic de retrovisors
+ # Disseny de les portes
 
 > **Autors:** Brandon Ventura, Pablo .
 
@@ -47,5 +47,4 @@ Diseño de una una PCB para controlar las puertas.
 | 26/03/2025 | B.Ventura | Main | initial commit | Readme y Esquemático |
 | 26/03/2025 | B.Ventura | Main | | Diagrama de Bloques |
 | 28/03/2025 | B.Ventura | Main | | Terminales y Diodos |
-
-
+| 28/03/2025 | P.Penalba | Main | | Etiquetas,Botonera y Buck converter|
