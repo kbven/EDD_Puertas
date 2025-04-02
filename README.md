@@ -56,3 +56,4 @@ Diseño de una una PCB para controlar las puertas.
 | 26/03/2025 | B.Ventura | Main | | Diagrama de Bloques |
 | 28/03/2025 | B.Ventura | Main | | Terminales y Diodos |
 | 28/03/2025 | P.Penalba | Main | | Etiquetas,Botonera y Buck converter|
+| 01/04/2025 | B.Ventura | Dev | | Corrección del esquema, terminal screw terminals y prelayout|
