@@ -40,6 +40,7 @@ D2 ---> https://www.mouser.es/datasheet/2/80/CDBU0320_0330_0340_HF_RevB692085-24
 
 C3 --> https://www.mouser.es/ProductDetail/Nichicon/UCK1E262MNJ1MS?qs=2wMNvWM5ZX7GuNdKoqmbww%3D%3D
 
+D6,D7,D8,D9-->https://www.mouser.es/ProductDetail/Littelfuse/SPHV15-01ETG-C?qs=pjml9%2F2fuKVhNrbztlkuDQ%3D%3D
 ## Motores y final de carrera
 
 | Motor DC         | Motor DC RS PRO                 | [datasheet](https://docs.rs-online.com/6e47/A700000007082069.pdf) | [Rs](https://es.rs-online.com/web/p/motores-dc/3213186)                       |
