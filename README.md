@@ -36,7 +36,7 @@ Diseño de una una PCB para controlar las puertas.
 | MOSFET P-Channel     | AO3401A            | SOT-23  | [datasheet](https://www.aosmd.com/sites/default/files/res/datasheets/AO3401A.pdf)                      | [Digikey](https://www.digikey.es/es/products/detail/alpha-omega-semiconductor-inc/AO3401A/1855773)                                                                                                                                                                                          |
 | Transceiver CAN      | MAX3051ESA+        | SOIC-8  | [datasheet](https://www.mouser.es/datasheet/2/609/MAX3051-3469944.pdf)                                 | [Mouser](https://www.mouser.es/ProductDetail/Analog-Devices-Maxim-Integrated/MAX3051ESA%2bT?qs=sGAEpiMZZMuyKkoWRCJ2WCvAmU8rwmAFQagA9HhnCAw%3D)                                                                                                                            |
 | Lector RFID          | DLP-RFID2          |         | [datasheet](https://www.mouser.es/datasheet/2/117/dlp-rfid2-ds-v114-1374531.pdf)                       | [Mouser](https://www.mouser.es/ProductDetail/DLP-Design/DLP-RFID2?qs=7edrXduW%2FNsZxdz8dNHO%252BQ%3D%3D)                                                                                                                                                                                    |
-
+D2 ---> https://www.mouser.es/datasheet/2/80/CDBU0320_0330_0340_HF_RevB692085-2488376.pdf
 
 
 
