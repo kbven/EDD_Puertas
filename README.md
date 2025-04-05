@@ -38,7 +38,7 @@ Diseño de una una PCB para controlar las puertas.
 | Lector RFID          | DLP-RFID2          |         | [datasheet](https://www.mouser.es/datasheet/2/117/dlp-rfid2-ds-v114-1374531.pdf)                       | [Mouser](https://www.mouser.es/ProductDetail/DLP-Design/DLP-RFID2?qs=7edrXduW%2FNsZxdz8dNHO%252BQ%3D%3D)                                                                                                                                                                                    |
 D2 ---> https://www.mouser.es/datasheet/2/80/CDBU0320_0330_0340_HF_RevB692085-2488376.pdf
 
-
+C3 --> https://www.mouser.es/ProductDetail/Nichicon/UCK1E262MNJ1MS?qs=2wMNvWM5ZX7GuNdKoqmbww%3D%3D
 
 ## Motores y final de carrera
 
