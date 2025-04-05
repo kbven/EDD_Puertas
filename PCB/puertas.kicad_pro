@@ -477,11 +477,7 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "+12V": [
-        "POWERH"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
