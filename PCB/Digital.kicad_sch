@@ -10333,7 +10333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DLP-RFID2:DLP-RFID2"
+		(property "Footprint" "CREATED:DLP-RFID2"
 			(at 157.48 104.14 0)
 			(effects
 				(font
@@ -10342,7 +10342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.es/datasheet/2/117/dlp-rfid2-ds-v114-1374531.pdf"
 			(at 149.86 104.14 0)
 			(effects
 				(font
