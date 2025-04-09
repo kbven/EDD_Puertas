@@ -57,3 +57,6 @@ Diseño de una una PCB para controlar las puertas.
 | 28/03/2025 | B.Ventura | Main | | Terminales y Diodos |
 | 28/03/2025 | P.Penalba | Main | | Etiquetas,Botonera y Buck converter|
 | 01/04/2025 | B.Ventura | Dev | | Corrección del esquema, terminal screw terminals y layout v1|
+| 09/04/2025 | B.Ventura | Dev | | cambio de posición pines, cambio de terminales final de carrera y corrección error grid|
+| 09/04/2025 | B.Ventura | Dev | | layout versión 2, reglas de diseño JLCPCB|
+
