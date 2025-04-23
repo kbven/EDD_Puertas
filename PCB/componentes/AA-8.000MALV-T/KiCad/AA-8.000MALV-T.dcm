@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AA-8.000MALV-T
+D 8 MHz +/-30ppm Crystal 8pF 150 Ohms 2-SMD, No Lead , -40C ~ 125C
+K
+F https://www.txccrystal.com/images/pdf/aa-automotive.pdf
+$ENDCMP
+#
+#End Doc Library

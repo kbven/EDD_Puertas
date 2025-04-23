@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX3051ESA+
+D CAN Transceiver 1 Mbit/s ISO 11898 Standby-Mode 8pins SOIC
+K
+F http://datasheets.maximintegrated.com/en/ds/MAX3051.pdf
+$ENDCMP
+#
+#End Doc Library
