@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "c96004bd-c0fc-431c-a510-eb1e1a82944f")
 	(paper "A4")
+	(title_block
+		(title "Puertas")
+	)
 	(lib_symbols)
 	(text "PUERTAS EDD\n"
 		(exclude_from_sim no)

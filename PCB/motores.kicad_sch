@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "1a61484a-83b1-49b7-8a2d-00c236a675f1")
 	(paper "A4")
+	(title_block
+		(title "Motores")
+		(rev "4/4")
+	)
 	(lib_symbols
 		(symbol "+12V_1"
 			(power)
@@ -4682,7 +4686,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "FINALS DE CARRERA\n"
+	(text "FINALES DE CARRERA\n"
 		(exclude_from_sim no)
 		(at 62.23 123.444 0)
 		(effects
@@ -4720,7 +4724,7 @@
 		)
 		(uuid "7d1ae218-2102-4ca3-8724-c17fdd9cd6b9")
 	)
-	(text "DRIVERS ACTUADORS DELS MOTORS\n\n"
+	(text "DRIVERS ACTUADORES DE LOS MOTORS\n\n"
 		(exclude_from_sim no)
 		(at 119.38 40.64 0)
 		(effects
